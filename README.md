@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Bernard! and I'm a student at UC3M! I am currently finishing my Master's degree in computational social science and a Master's degree in Business Intelligence while working at Wuolah!</h2>
+<h2 align="left">Hi 👋! My name is Bernard! and I'm a student at UC3M! I am currently finishing my Master's degree in computational social science and a Master's degree in Business Intelligence while working at Wuolah!</h2>
 
 ###
 
@@ -31,4 +31,4 @@
   </a>
 </div>
 
-### 
+###
