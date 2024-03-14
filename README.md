@@ -6,10 +6,6 @@
 
 ###
 
-<img align="right" height="120" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif"  />
-
-###
-
 <img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm8xNXRiMjltajZ5dW0zemVpMnlsanczNGJza292OXJ6dnB6bms2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
